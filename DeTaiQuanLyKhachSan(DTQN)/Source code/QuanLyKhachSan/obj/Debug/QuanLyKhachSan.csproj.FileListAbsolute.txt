@@ -1,0 +1,103 @@
+D:\Project_NMCNPM\ProjectNMCNPM\QLKH\QuanLyKhachSan\bin\Debug\QuanLyKhachSan.exe.config
+D:\Project_NMCNPM\ProjectNMCNPM\QLKH\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.DanhMucPhong.resources
+D:\Project_NMCNPM\ProjectNMCNPM\QLKH\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.TraCuu.resources
+D:\Project_NMCNPM\ProjectNMCNPM\QLKH\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.Menu.resources
+D:\Project_NMCNPM\ProjectNMCNPM\QLKH\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.PhieuThuePhong.resources
+D:\Project_NMCNPM\ProjectNMCNPM\QLKH\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.Properties.Resources.resources
+D:\Project_NMCNPM\ProjectNMCNPM\QLKH\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.SuaThongTin.resources
+D:\Project_NMCNPM\ProjectNMCNPM\QLKH\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.TroGiup.resources
+D:\Project_NMCNPM\ProjectNMCNPM\QLKH\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.csproj.GenerateResource.Cache
+D:\Project_NMCNPM\ProjectNMCNPM\QLKH\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.exe
+D:\Project_NMCNPM\ProjectNMCNPM\QLKH\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.pdb
+D:\Project_NMCNPM\ProjectNMCNPM\QLKH\QuanLyKhachSan\bin\Debug\QuanLyKhachSan.exe
+D:\Project_NMCNPM\ProjectNMCNPM\QLKH\QuanLyKhachSan\bin\Debug\QuanLyKhachSan.pdb
+D:\Project_NMCNPM\ProjectNMCNPM\QLKH\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.HoaDonThanhToan.resources
+C:\Users\E5550\Documents\Visual Studio 2015\Projects\QLKS-pj\QLKH\QuanLyKhachSan\bin\Debug\QuanLyKhachSan.exe.config
+C:\Users\E5550\Documents\Visual Studio 2015\Projects\QLKS-pj\QLKH\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.exe
+C:\Users\E5550\Documents\Visual Studio 2015\Projects\QLKS-pj\QLKH\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.csprojResolveAssemblyReference.cache
+C:\Users\E5550\Documents\Visual Studio 2015\Projects\QLKS-pj\QLKH\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.DanhMucPhong.resources
+C:\Users\E5550\Documents\Visual Studio 2015\Projects\QLKS-pj\QLKH\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.HoaDonThanhToan.resources
+C:\Users\E5550\Documents\Visual Studio 2015\Projects\QLKS-pj\QLKH\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.TraCuu.resources
+C:\Users\E5550\Documents\Visual Studio 2015\Projects\QLKS-pj\QLKH\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.Menu.resources
+C:\Users\E5550\Documents\Visual Studio 2015\Projects\QLKS-pj\QLKH\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.PhieuThuePhong.resources
+C:\Users\E5550\Documents\Visual Studio 2015\Projects\QLKS-pj\QLKH\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.Properties.Resources.resources
+C:\Users\E5550\Documents\Visual Studio 2015\Projects\QLKS-pj\QLKH\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.SuaThongTin.resources
+C:\Users\E5550\Documents\Visual Studio 2015\Projects\QLKS-pj\QLKH\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.TroGiup.resources
+C:\Users\E5550\Documents\Visual Studio 2015\Projects\QLKS-pj\QLKH\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.csproj.GenerateResource.Cache
+C:\Users\E5550\Documents\Visual Studio 2015\Projects\QLKS-pj\QLKH\QuanLyKhachSan\bin\Debug\QuanLyKhachSan.exe
+C:\Users\E5550\Documents\Visual Studio 2015\Projects\QLKS-pj\QLKH\QuanLyKhachSan\bin\Debug\QuanLyKhachSan.pdb
+C:\Users\E5550\Documents\Visual Studio 2015\Projects\QLKS-pj\QLKH\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.pdb
+C:\Users\E5550\Documents\Visual Studio 2015\Projects\QLKS-pj\QLKH\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.Login.resources
+D:\Project_NMCNPM\ProjectNMCNPM\QLKH\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.BaoCaoThang.resources
+D:\Project_NMCNPM\ProjectNMCNPM\QLKH\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.Login.resources
+E:\Learn\HK2 2018\NMCNPM\ProjectNMCNPM\Source code\QuanLyKhachSan\bin\Debug\QuanLyKhachSan.exe.config
+E:\Learn\HK2 2018\NMCNPM\ProjectNMCNPM\Source code\QuanLyKhachSan\bin\Debug\QuanLyKhachSan.exe
+E:\Learn\HK2 2018\NMCNPM\ProjectNMCNPM\Source code\QuanLyKhachSan\bin\Debug\QuanLyKhachSan.pdb
+E:\Learn\HK2 2018\NMCNPM\ProjectNMCNPM\Source code\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.csprojResolveAssemblyReference.cache
+E:\Learn\HK2 2018\NMCNPM\ProjectNMCNPM\Source code\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.BaoCaoThang.resources
+E:\Learn\HK2 2018\NMCNPM\ProjectNMCNPM\Source code\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.DanhMucPhong.resources
+E:\Learn\HK2 2018\NMCNPM\ProjectNMCNPM\Source code\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.HoaDonThanhToan.resources
+E:\Learn\HK2 2018\NMCNPM\ProjectNMCNPM\Source code\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.Login.resources
+E:\Learn\HK2 2018\NMCNPM\ProjectNMCNPM\Source code\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.TraCuu.resources
+E:\Learn\HK2 2018\NMCNPM\ProjectNMCNPM\Source code\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.Menu.resources
+E:\Learn\HK2 2018\NMCNPM\ProjectNMCNPM\Source code\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.PhieuThuePhong.resources
+E:\Learn\HK2 2018\NMCNPM\ProjectNMCNPM\Source code\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.Properties.Resources.resources
+E:\Learn\HK2 2018\NMCNPM\ProjectNMCNPM\Source code\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.SuaThongTin.resources
+E:\Learn\HK2 2018\NMCNPM\ProjectNMCNPM\Source code\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.TroGiup.resources
+E:\Learn\HK2 2018\NMCNPM\ProjectNMCNPM\Source code\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.csproj.GenerateResource.Cache
+E:\Learn\HK2 2018\NMCNPM\ProjectNMCNPM\Source code\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.exe
+E:\Learn\HK2 2018\NMCNPM\ProjectNMCNPM\Source code\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.pdb
+D:\Project_NMCNPM\ProjectNMCNPM\Source code\QuanLyKhachSan\bin\Debug\QuanLyKhachSan.exe.config
+D:\Project_NMCNPM\ProjectNMCNPM\Source code\QuanLyKhachSan\bin\Debug\QuanLyKhachSan.exe
+D:\Project_NMCNPM\ProjectNMCNPM\Source code\QuanLyKhachSan\bin\Debug\QuanLyKhachSan.pdb
+D:\Project_NMCNPM\ProjectNMCNPM\Source code\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.BaoCaoThang.resources
+D:\Project_NMCNPM\ProjectNMCNPM\Source code\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.DanhMucPhong.resources
+D:\Project_NMCNPM\ProjectNMCNPM\Source code\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.HoaDonThanhToan.resources
+D:\Project_NMCNPM\ProjectNMCNPM\Source code\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.Login.resources
+D:\Project_NMCNPM\ProjectNMCNPM\Source code\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.ThayDoiQuyDinh.resources
+D:\Project_NMCNPM\ProjectNMCNPM\Source code\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.TraCuu.resources
+D:\Project_NMCNPM\ProjectNMCNPM\Source code\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.Menu.resources
+D:\Project_NMCNPM\ProjectNMCNPM\Source code\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.PhieuThuePhong.resources
+D:\Project_NMCNPM\ProjectNMCNPM\Source code\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.Properties.Resources.resources
+D:\Project_NMCNPM\ProjectNMCNPM\Source code\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.SuaThongTin.resources
+D:\Project_NMCNPM\ProjectNMCNPM\Source code\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.TroGiup.resources
+D:\Project_NMCNPM\ProjectNMCNPM\Source code\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.csproj.GenerateResource.Cache
+D:\Project_NMCNPM\ProjectNMCNPM\Source code\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.exe
+D:\Project_NMCNPM\ProjectNMCNPM\Source code\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.pdb
+D:\Project_NMCNPM\ProjectNMCNPM\Source code\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.csprojResolveAssemblyReference.cache
+C:\Users\LENOVO\Downloads\ProjectNMCNPM-master\ProjectNMCNPM-master\Source code\QuanLyKhachSan\bin\Debug\QuanLyKhachSan.exe.config
+C:\Users\LENOVO\Downloads\ProjectNMCNPM-master\ProjectNMCNPM-master\Source code\QuanLyKhachSan\bin\Debug\QuanLyKhachSan.exe
+C:\Users\LENOVO\Downloads\ProjectNMCNPM-master\ProjectNMCNPM-master\Source code\QuanLyKhachSan\bin\Debug\QuanLyKhachSan.pdb
+C:\Users\LENOVO\Downloads\ProjectNMCNPM-master\ProjectNMCNPM-master\Source code\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.csprojAssemblyReference.cache
+C:\Users\LENOVO\Downloads\ProjectNMCNPM-master\ProjectNMCNPM-master\Source code\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.BaoCaoThang.resources
+C:\Users\LENOVO\Downloads\ProjectNMCNPM-master\ProjectNMCNPM-master\Source code\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.DanhMucPhong.resources
+C:\Users\LENOVO\Downloads\ProjectNMCNPM-master\ProjectNMCNPM-master\Source code\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.HoaDonThanhToan.resources
+C:\Users\LENOVO\Downloads\ProjectNMCNPM-master\ProjectNMCNPM-master\Source code\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.Login.resources
+C:\Users\LENOVO\Downloads\ProjectNMCNPM-master\ProjectNMCNPM-master\Source code\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.ThayDoiQuyDinh.resources
+C:\Users\LENOVO\Downloads\ProjectNMCNPM-master\ProjectNMCNPM-master\Source code\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.TraCuu.resources
+C:\Users\LENOVO\Downloads\ProjectNMCNPM-master\ProjectNMCNPM-master\Source code\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.Menu.resources
+C:\Users\LENOVO\Downloads\ProjectNMCNPM-master\ProjectNMCNPM-master\Source code\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.PhieuThuePhong.resources
+C:\Users\LENOVO\Downloads\ProjectNMCNPM-master\ProjectNMCNPM-master\Source code\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.Properties.Resources.resources
+C:\Users\LENOVO\Downloads\ProjectNMCNPM-master\ProjectNMCNPM-master\Source code\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.SuaThongTin.resources
+C:\Users\LENOVO\Downloads\ProjectNMCNPM-master\ProjectNMCNPM-master\Source code\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.csproj.GenerateResource.cache
+C:\Users\LENOVO\Downloads\ProjectNMCNPM-master\ProjectNMCNPM-master\Source code\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\Downloads\ProjectNMCNPM-master\ProjectNMCNPM-master\Source code\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.exe
+C:\Users\LENOVO\Downloads\ProjectNMCNPM-master\ProjectNMCNPM-master\Source code\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.pdb
+C:\Users\LENOVO\Downloads\ProjectNMCNPM-master\DeTaiQuanLyKhachSan(DTQN)\Source code\QuanLyKhachSan\bin\Debug\QuanLyKhachSan.exe.config
+C:\Users\LENOVO\Downloads\ProjectNMCNPM-master\DeTaiQuanLyKhachSan(DTQN)\Source code\QuanLyKhachSan\bin\Debug\QuanLyKhachSan.exe
+C:\Users\LENOVO\Downloads\ProjectNMCNPM-master\DeTaiQuanLyKhachSan(DTQN)\Source code\QuanLyKhachSan\bin\Debug\QuanLyKhachSan.pdb
+C:\Users\LENOVO\Downloads\ProjectNMCNPM-master\DeTaiQuanLyKhachSan(DTQN)\Source code\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.csprojAssemblyReference.cache
+C:\Users\LENOVO\Downloads\ProjectNMCNPM-master\DeTaiQuanLyKhachSan(DTQN)\Source code\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.BaoCaoThang.resources
+C:\Users\LENOVO\Downloads\ProjectNMCNPM-master\DeTaiQuanLyKhachSan(DTQN)\Source code\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.DanhMucPhong.resources
+C:\Users\LENOVO\Downloads\ProjectNMCNPM-master\DeTaiQuanLyKhachSan(DTQN)\Source code\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.HoaDonThanhToan.resources
+C:\Users\LENOVO\Downloads\ProjectNMCNPM-master\DeTaiQuanLyKhachSan(DTQN)\Source code\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.Login.resources
+C:\Users\LENOVO\Downloads\ProjectNMCNPM-master\DeTaiQuanLyKhachSan(DTQN)\Source code\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.ThayDoiQuyDinh.resources
+C:\Users\LENOVO\Downloads\ProjectNMCNPM-master\DeTaiQuanLyKhachSan(DTQN)\Source code\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.TraCuu.resources
+C:\Users\LENOVO\Downloads\ProjectNMCNPM-master\DeTaiQuanLyKhachSan(DTQN)\Source code\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.Menu.resources
+C:\Users\LENOVO\Downloads\ProjectNMCNPM-master\DeTaiQuanLyKhachSan(DTQN)\Source code\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.PhieuThuePhong.resources
+C:\Users\LENOVO\Downloads\ProjectNMCNPM-master\DeTaiQuanLyKhachSan(DTQN)\Source code\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.Properties.Resources.resources
+C:\Users\LENOVO\Downloads\ProjectNMCNPM-master\DeTaiQuanLyKhachSan(DTQN)\Source code\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.SuaThongTin.resources
+C:\Users\LENOVO\Downloads\ProjectNMCNPM-master\DeTaiQuanLyKhachSan(DTQN)\Source code\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.csproj.GenerateResource.cache
+C:\Users\LENOVO\Downloads\ProjectNMCNPM-master\DeTaiQuanLyKhachSan(DTQN)\Source code\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\Downloads\ProjectNMCNPM-master\DeTaiQuanLyKhachSan(DTQN)\Source code\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.exe
+C:\Users\LENOVO\Downloads\ProjectNMCNPM-master\DeTaiQuanLyKhachSan(DTQN)\Source code\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.pdb
